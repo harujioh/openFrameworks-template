@@ -8,7 +8,7 @@ A template for openFrameworks.
 ```
 $ git clone https://github.com/yuhki50/openFrameworks-template.git
 $ cd openFrameworks-template
-$ sh ./scripts/setup.sh
+$ sh ./scripts/setup_osx.sh
 ```
 
 
